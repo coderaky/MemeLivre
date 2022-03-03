@@ -1,5 +1,4 @@
 # MemeLivre Meme Sharing Application
-![Memelivre]()
 
 ## Introduction
 
