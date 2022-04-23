@@ -1,5 +1,5 @@
 # MemeLivre Meme Sharing Application
-![Memelivre](https://github.com/coderaky/MemeLivre/blob/master/meme.jpg?raw=true)
+![Memelivre](https://github.com/coderaky/MemeLivre/blob/master/meme.jpeg?raw=true)
 
 Live: https://memelivre.coderaky.com/
 
